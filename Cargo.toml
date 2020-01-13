@@ -1,8 +1,12 @@
 [package]
 name = "python-input"
-version = "0.1.0"
-authors = ["student"]
+version = "0.5.0"
+authors = ["Max Larsson <maxslarsson@gmail.com>"]
 edition = "2018"
+description = "A rust implementation of the python 'input' function."
+repository = "https://github.com/maxslarsson/python-input"
+keywords = ["Python", "User", "Input", "Rust", "Implementation"]
+license-file = "LICENSE"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
