@@ -6,7 +6,7 @@ edition = "2018"
 description = "A rust implementation of the python 'input' function."
 repository = "https://github.com/maxslarsson/python-input"
 keywords = ["python", "user", "input", "rust", "implementation"]
-license = "MIT License"
+license = "MIT"
 readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
