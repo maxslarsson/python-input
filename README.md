@@ -1,7 +1,5 @@
 # python-input
 
-## Description
-
 A simple pure-rust implementation of python's input function.
 
 ## Functions
@@ -12,7 +10,18 @@ There is currently only one function, the `input` function.
 
 The input function takes one parameter, a string which is printed to the console as a prompt to the user.
 
-## Example
+## Example Code
+
+### Add the following to your `Cargo.toml` file
+
+```toml
+[dependencies]
+...
+python-input = "0.8.0"
+...
+```
+
+### Add the following to your rust file(s)
 
 ```rust
 extern crate python_input;
